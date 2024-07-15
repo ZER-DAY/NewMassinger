@@ -2,5 +2,4 @@ Social networking site (html - css - js - bootstrap)
 
 
 
-
-![header](https://github.com/user-attachments/assets/cfe0d0f9-210e-4af7-8da1-738db6376fa0)
+![Screenshot_1](https://github.com/user-attachments/assets/daa47380-b9ff-41a7-beba-0a2379f02536)
