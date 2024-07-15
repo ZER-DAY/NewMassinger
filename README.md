@@ -1,3 +1,6 @@
 Social networking site (html - css - js - bootstrap)
 
-https://raw.githubusercontent.com/Yarob50/Advanced-JS-Course-Final-Project/master/readme/header.png
+
+
+
+![header](https://github.com/user-attachments/assets/cfe0d0f9-210e-4af7-8da1-738db6376fa0)
